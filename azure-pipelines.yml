@@ -4,10 +4,9 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 trigger:
-- master
+- deploy
 
 variables:
-resources:
   uiSource: '/src'
   uiBuild: '/build'
 
