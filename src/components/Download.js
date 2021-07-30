@@ -5,7 +5,7 @@ export default function Download() {
   return (
     <div>
       <Navbar />
-      <p>Download 2</p>
+      <p>Download 3</p>
     </div>
   )
 }
